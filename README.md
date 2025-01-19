@@ -1,2 +1,3 @@
-!# Homu-JsonCollection(homu.webp)
+#Homu-JsonCollection
+!# [Homu-JsonCollection](homu.webp)
 Collection of jsons for Korepi
